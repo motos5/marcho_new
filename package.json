@@ -1,0 +1,33 @@
+{
+  "name": "piza-2",
+  "version": "1.0.0",
+  "description": "Projct Pizza",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  },
+  "devDependencies": {
+    "browser-sync": "2.27.7",
+    "del": "6.0.0",
+    "gulp-autoprefixer": "8.0.0",
+    "gulp-concat": "2.6.1",
+    "gulp-imagemin": "7.1.0",
+    "gulp-sass": "5.1.0",
+    "gulp-uglify": "3.0.2",
+    "jquery": "3.6.0",
+    "sass": "1.49.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/motos5/pizza-2.git"
+  },
+  "author": "Vitaliy Izotov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/motos5/pizza-2/issues"
+  },
+  "homepage": "https://github.com/motos5/pizza-2#readme"
+}
